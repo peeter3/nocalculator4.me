@@ -10,20 +10,42 @@ td { border: 1px solid black; padding: 10px; }
 
 # Abacus lessons
 
-## This is a soroban
+This a script for an abacus instructor to use with his or her class.
 
-There are many different kinds of abacuses. The Chinese abacus is called _suan pan_. <sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup> The Japanese abacus is called _soroban_. It has five beads on the bottom and one on the top. These are Japanese abacuses, or _sorobans_.
+## This is a soroban.
+
+There are many different kinds of abacuses. The Chinese abacus is called _suan pan_. <sup>[<a name="id0002" href="#ftn.id0002">§</a>]</sup> The Japanese abacus is called _soroban_. It has four beads on the bottom and one on the top.
 
 ## Clear the abacus
 
 The abacus consists of a frame, bar in the middle, and beads that slide on rods.
 
-**<center>If the beads touch the bar, count them. If the beads do not touch the bar, they do not count.</center>**
+**<center>How many rods are on the abacus? Count them.</center>**
 
-_Clearing the abacus_ means pushing all the beads away from the bar in the middle. Here's how you clear an abacus:
+A small abacus may have 13 rods.
 
-1. Shake the abacus so that all the beads to down; then set it flat on the table.
-1. Move all the top beads away from the bar.
+**<center>How many beads are on each rod? Count them.</center>**
+
+There are five.
+
+**<center>Pick any one of the rods. How many beads are below the bar?</center>**
+
+There are four.
+
+**<center>The bottom beads are called _1‑beads_.</center>**
+
+**<center>How many beads are above the bar?</center>**
+
+There is one.
+
+**<center>The top beads are called _5‑beads_.</center>**
+
+**<center>If the beads touch the bar in the middle, count them. If the beads do not touch the bar, they do not count.</center>**
+
+_Clearing the abacus_ means pushing all the beads away from the bar:
+
+1. Hold the abacus straight up and down so that all the beads to down; then set it flat on the table.
+1. Move all the top beads away from the bar. Move your right pointer (index) finger along the bar from left to right so that all the top beads pop away from the bar.
 
 Some abacuses have a button to push that clears the abacus. If your abacus has such a button, do this:
 
@@ -33,10 +55,6 @@ Some abacuses have a button to push that clears the abacus. If your abacus has s
 Now all the beads are away from the bar; the abacus is _cleared_.
 
 **<center>When the abacus is cleared, what number is that? Zero.</center>**
-
-**<center>The bottom beads are called _1‑beads_.</center>**
-
-**<center>The top beads are called _5‑beads_.</center>**
 
 **<center>Now, with the thumb of your right hand, slide a 1‑bead up to the middle. What is the number? 1.</center>**
 
@@ -54,10 +72,14 @@ Now all the beads are away from the bar; the abacus is _cleared_.
 
 ## Count on the abacus
 
+You work on the abacus using the thumb and pointer finger of your right hand.
+
 These are the rules of finger motion when counting up and down on an abacus:
 
 > (1) Use your thumb _only_ to move 1‑beads up. Use your index finger for all other bead motion.  
 > (2) In quick succession, first move down a 5‑bead, and then move down one or more 1‑beads.
+
+### Count from <kbd>0</kbd> to <kbd>9</kbd>
 
 Now count from <kbd>0</kbd> to <kbd>9</kbd>. Now to count from <kbd>9</kbd> to <kbd>10</kbd>, you need two more rules of finger motion:
 
@@ -69,18 +91,24 @@ The rod you were adding on from <kbd>0</kbd> to <kbd>9</kbd> is called the _unit
 * Anyone want to guess what the rod to the left of it is called? The _tens‑rod_.
 * Anyone want to guess what the rod to the left of the _tens‑rod_ is called? The _hundreds‑rod_.
 
-Count from <kbd>1</kbd> to <kbd>100</kbd>.
+### Count from <kbd>1</kbd> to <kbd>100</kbd>
 
-Count down from <kbd>100</kbd> to <kbd>1</kbd>.
+### Count down from <kbd>100</kbd> to <kbd>1</kbd>.
+
+### Count _by tenths_ from <kbd>0.1</kbd> to <kbd>2.0</kbd>
 
 Go back to the ones‑rod.
 
 * Anyone want to guess what the rod to the right of it is called? The _tenths‑rod_. If you're counting money, this is where you count your dimes.
 * Anyone want to guess what the rod to the right of the _tenths‑rod_ is called? The _hundredths‑rod_. If you're counting money, this is where you count your pennies.
 
-Count _by tenths_ from <kbd>0.1</kbd> to <kbd>2.0</kbd>.
+### Count down by tenths from <kbd>2.0</kbd> to <kbd>0.1</kbd>.
 
-Count down by tenths from <kbd>2.0</kbd> to <kbd>0.1</kbd>.
+### Your fingers should dance on the beads
+
+With practice, your pointer finger and thumb should move quick and light on the beads. Never press down on the beads—just touch them lightly, move them, and then get off of them.
+
+**<center>Keep your fingers close, never far away from the beads.</center>**
 
 ## Set numbers on the abacus
 
@@ -99,7 +127,7 @@ Set these numbers on your abacus:
 
 You can just keep counting beads to get our answer.
 
-### Adding (the hard way)
+### Adding (the hard way) by counting
 
 <table>
 <tr>
