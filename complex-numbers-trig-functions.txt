@@ -1,0 +1,17 @@
+% Complex numbers and trig functions
+<!-- pandoc -s --smart --latexmathml -f markdown -t html5 -c ~/Dropbox/PPP_JUMP1/computer/markdown/ppp.css -o FILE.html FILE.txt -->
+
+## Multiply by a complex number $z$ where $|z| = 1$
+
+Try $z = 1 + 0i$.
+
+Try $z = \sqrt{\frac 1 2} + \left(\sqrt{\frac 1 2}\right) i$.
+
+## Calculate $\sqrt{z}$.
+
+There is a number $y$ such that $y^2 = z$.
+Let $y = u + vi$ and $z = a + bi$.
+
+$$(u+vi)(u+vi) = a + bi$$
+
+If we can solve for real numbers $u$ and $v$, then we have a complex number $y = \sqrt{z}$.
